@@ -25,7 +25,7 @@ If collateral < liquidation threshold, liquidators can repay the borrower's debt
 
 
 
-Program:
+# Program:
 ```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
@@ -82,7 +82,25 @@ Users can borrow ETH by providing collateral.
 
 If collateral < 150% of borrowed amount, liquidators can seize the collateral.
 
+# Output : 
 
+<img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/9622d09f-3a87-4039-827a-c2d2252ca466" />
+
+
+
+<img width="1919" height="882" alt="image" src="https://github.com/user-attachments/assets/0aefd4e8-4422-47eb-899c-83468757193c" />
+
+
+
+<img width="1917" height="879" alt="image" src="https://github.com/user-attachments/assets/ac9f43e9-1b88-4969-83db-2f8b35141b93" />
+
+
+
+<img width="1918" height="884" alt="image" src="https://github.com/user-attachments/assets/c8bb1bbc-040a-49de-8025-f3e5fdd5dfbe" />
+
+
+
+<img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/629a072c-efa4-404a-a411-f4935123ab5a" />
 
 # High-Level Overview:
 Teaches key DeFi concepts: lending, borrowing, collateral, liquidation.
